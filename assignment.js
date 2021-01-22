@@ -95,5 +95,5 @@ function megaFriend(friends){
     }
 }
 
-// var friends = ['Fahim', 'Robin', 'Babu', 'Tanvir', 'A.B. Siddik'];
+// var friends = ['Fahim', 'Robin', 'Babu', 'Tanvir', 'A.B. Siddik', 'Hudai'];
 // console.log(megaFriend(friends));
