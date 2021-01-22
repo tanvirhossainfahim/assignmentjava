@@ -39,7 +39,7 @@ function budgetCalculator(numberOfWatch, numberOfPhone, numberOfLaptop){
 /*
     1-10 = 100
     11-20 = 80 
-    20+ = 50
+    20 + = 50
 */
 
 function hotelCost(days){
